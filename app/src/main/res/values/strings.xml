@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appsport</string>
+    <string name="entrada">Bienvenido</string>
+    <string name="botonlogin">Inicia sesion</string>
+    <string name="botonregistrar">Registrar</string>
+
+    <string name="indicacioningresarid">ID</string>
+    <string name="indicacioningresarpassword">Password</string>
+    <string name="botonaceptarlog">Aceptar</string>
+    <string name="indicacionrecuperar">Recuperar password</string>
+
+
+</resources>

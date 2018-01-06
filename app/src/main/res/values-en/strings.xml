@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appsport</string>
+    <string name="entrada">Welcome</string>
+    <string name="botonlogin">Log in</string>
+    <string name="botonregistrar">Sign up</string>
+
+
+</resources>
